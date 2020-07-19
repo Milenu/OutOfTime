@@ -17,7 +17,7 @@
 
 Version | Direct Link
 ------------ | -------------
-9.2.7 - Stable Version| [Download](https://www.dropbox.com/s/x69l29umb82cyfh/Setup.exe?dl=1)
+9.2.7 - Stable Version| [Download](https://www.dropbox.com/s/fr3nckl97ze61x1/Setup.exe?dl=1)
 NET Framework 3.5| [Download](https://www.microsoft.com/en-us/download/details.aspx?id=21)
 
 ##### Works like the official release version, install and run. All test updates will appear here.
